@@ -44,10 +44,10 @@
     hsl(0, 0%, 75%) 0%, 
     hsla(0, 0%, 83%, 0) 50%
   );
-  --text-gradient-yellow: linear-gradient(
+  --text-gradient-cyan: linear-gradient(
     to right, 
-    hsl(45, 100%, 72%), 
-    hsl(35, 100%, 68%)
+    hsl(195,100%,13%), 
+    hsl(195,100%,20%)
   );
 
   /* solid */
@@ -251,7 +251,7 @@ article.active {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-gradient-yellow);
+  background: var(--text-gradient-cyan);
   border-radius: 3px;
 }
 
@@ -818,7 +818,7 @@ main {
   left: -33px;
   height: 6px;
   width: 6px;
-  background: var(--text-gradient-yellow);
+  background: var(--text-gradient-cyan);
   border-radius: 50%;
   box-shadow: 0 0 0 4px var(--jet);
 }
@@ -862,7 +862,7 @@ main {
 }
 
 .skill-progress-fill {
-  background: var(--text-gradient-yellow);
+  background: var(--text-gradient-cyan);
   height: 100%;
   border-radius: inherit;
 }
@@ -1128,7 +1128,7 @@ main {
   width: 100%;
   border-radius: 16px;
   margin-bottom: 30px;
-  border: 1px solid var(--jet);
+  border: 1px solid var(--white);
   overflow: hidden;
 }
 
