@@ -1,4 +1,4 @@
-vCard - Personal Portfolio
+Martina Bharthi Priya
 
 # sidebar
 
@@ -15,7 +15,7 @@ Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+July 14, 1984
 
 Location
 Sacramento, California, USA
