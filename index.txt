@@ -4,21 +4,21 @@ Martina Bharthi Priya
 
 alt = Martina Bharthi Priya
 Martina Bharthi Priya
-Web developer
+Freelance strategy consultant
 
 Show Contacts
 
 Email
-richard@example.com
+martinapriya@aol.com
 
 Phone
-+1 (213) 352-2795
++33 06 40 36 33 53
 
 Birthday
 July 14, 1984
 
 Location
-Sacramento, California, USA
+Paris, France
 
 # navbar
 
