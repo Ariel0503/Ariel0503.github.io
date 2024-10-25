@@ -15,7 +15,7 @@
 
   /* gradient */
 
-  --bg-gradient-onyx: linear-gradient(
+  --bg-gradient-white: linear-gradient(
     to bottom right, 
     hsl(240, 1%, 25%) 3%, 
     hsl(0, 0%, 19%) 97%
@@ -47,19 +47,9 @@
   );
 
   /* solid */
-
-  --jet: hsl(0, 0%, 22%);
-  --onyx: hsl(240, 1%, 17%);
-  --eerie-black-1: hsl(240, 2%, 13%);
-  --eerie-black-2: hsl(240, 2%, 12%);
-  --smoky-black: hsl(0, 0%, 7%);
   --white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 0%, 98%);
+  --white-2: hsl(0, 0%, 50%);
   --rich-black: hsl(180,100%,10%);
-  --vegas-gold: hsl(45, 54%, 58%);
-  --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
-  --bittersweet-shimmer: hsl(0, 43%, 51%);
 
   /**
    * typography
@@ -88,11 +78,11 @@
    * shadow
    */
   
-  --shadow-1: -4px 8px 24px hsla(0, 0%, 0%, 0.25);
-  --shadow-2: 0 16px 30px hsla(0, 0%, 0%, 0.25);
-  --shadow-3: 0 16px 40px hsla(0, 0%, 0%, 0.25);
-  --shadow-4: 0 25px 50px hsla(0, 0%, 0%, 0.15);
-  --shadow-5: 0 24px 80px hsla(0, 0%, 0%, 0.25);
+  --shadow-1: -4px 8px 24px hsla(0, 0%, 100%, 0.25);
+  --shadow-2: 0 16px 30px hsla(0, 0%, 100%, 0.25);
+  --shadow-3: 0 16px 40px hsla(0, 0%, 100%, 0.25);
+  --shadow-4: 0 25px 50px hsla(0, 0%, 100%, 0.15);
+  --shadow-5: 0 24px 80px hsla(0, 0%, 100%, 0.25);
 
   /**
    * transition
@@ -147,7 +137,7 @@ input, textarea {
 
 html { font-family: var(--ff-Roboto); }
 
-body { background: var(--smoky-black); }
+body { background: var(--white-1); }
 
 
 
@@ -160,7 +150,7 @@ body { background: var(--smoky-black); }
 .sidebar,
 article {
   background: var(--white-2);
-  border: 1px solid var(--jet);
+  border: 1px solid var(--white-1);
   border-radius: 20px;
   padding: 15px;
   box-shadow: var(--shadow-1);
@@ -170,13 +160,13 @@ article {
 .separator {
   width: 100%;
   height: 1px;
-  background: var(--jet);
+  background: var(--white-2);
   margin: 16px 0;
 }
 
 .icon-box {
   position: relative;
-  background: var(--border-gradient-onyx);
+  background: var(--white-1);
   width: 30px;
   height: 30px;
   border-radius: 8px;
