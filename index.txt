@@ -2,8 +2,8 @@ Martina Bharthi Priya
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Martina Bharthi Priya
+Martina Bharthi Priya
 Web developer
 
 Show Contacts
