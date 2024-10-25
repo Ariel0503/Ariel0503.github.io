@@ -140,7 +140,7 @@ input, textarea {
 
 ::selection {
   background: var(--Bittersweet);
-  color: var(--smoky-black);
+  color: var(--white-1);
 }
 
 :focus { outline-color: var(--Bittersweet); }
@@ -159,7 +159,7 @@ body { background: var(--smoky-black); }
 
 .sidebar,
 article {
-  background: var(--eerie-black-2);
+  background: var(--white-2);
   border: 1px solid var(--jet);
   border-radius: 20px;
   padding: 15px;
@@ -193,7 +193,7 @@ article {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--eerie-black-1);
+  background: var(--white-1);
   border-radius: inherit;
   z-index: -1;
 }
@@ -648,7 +648,7 @@ main {
 }
 
 .testimonials-modal {
-  background: var(--eerie-black-2);
+  background: var(--white-2);
   position: relative;
   padding: 15px;
   margin: 15px 12px;
@@ -788,7 +788,7 @@ main {
 }
 
 .timeline-list span {
-  color: var(--vegas-gold);
+  color: var(--Bittersweet);
   font-weight: var(--fw-400);
   line-height: 1.6;
 }
@@ -875,7 +875,7 @@ main {
 }
 
 .filter-select {
-  background: var(--eerie-black-2);
+  background: var(--white-2);
   color: var(--light-gray);
   display: flex;
   justify-content: space-between;
@@ -891,7 +891,7 @@ main {
 .filter-select.active .select-icon { transform: rotate(0.5turn); }
 
 .select-list {
-  background: var(--eerie-black-2);
+  background: var(--white-2);
   position: absolute;
   top: calc(100% + 6px);
   width: 100%;
@@ -912,7 +912,7 @@ main {
 }
 
 .select-item button {
-  background: var(--eerie-black-2);
+  background: var(--white-2);
   color: var(--light-gray);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
@@ -922,7 +922,7 @@ main {
   border-radius: 8px;
 }
 
-.select-item button:hover { --eerie-black-2: hsl(240, 2%, 20%); }
+.select-item button:hover { --white-2: hsl(240, 2%, 20%); }
 
 .project-list {
   display: grid;
@@ -1048,7 +1048,7 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: var(--eerie-black-1);
+  background: var(--white-1);
   z-index: -1;
 }
 
