@@ -56,6 +56,7 @@
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   --Bittersweet: hsl(5.3,100%,69%);
+  --Rich Black: hsl(180,100%,10%);	
   --vegas-gold: hsl(45, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
@@ -139,11 +140,11 @@ input, textarea {
 }
 
 ::selection {
-  background: var(--Bittersweet);
+  background: var(--Rich Black);
   color: var(--white-1);
 }
 
-:focus { outline-color: var(--Bittersweet); }
+:focus { outline-color: var(--Rich Black); }
 
 html { font-family: var(--ff-Roboto); }
 
@@ -184,7 +185,7 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  color: var(--Bittersweet);
+  color: var(--Rich Black);
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
@@ -258,7 +259,7 @@ article.active {
 }
 
 .has-scrollbar::-webkit-scrollbar-thumb {
-  background: var(--Bittersweet);
+  background: var(--Rich Black);
   border-radius: 5px;
 }
 
@@ -352,7 +353,7 @@ main {
   right: -15px;
   border-radius: 0 15px;
   font-size: 13px;
-  color: var(--Bittersweet);
+  color: var(--Rich Black);
   background: var(--border-gradient-onyx);
   padding: 10px;
   box-shadow: var(--shadow-2);
@@ -477,7 +478,7 @@ main {
 .navbar-link:hover,
 .navbar-link:focus { color: var(--light-gray-70); }
 
-.navbar-link.active { color: var(--Bittersweet); }
+.navbar-link.active { color: var(--Rich Black); }
 
 
 
@@ -788,7 +789,7 @@ main {
 }
 
 .timeline-list span {
-  color: var(--Bittersweet);
+  color: var(--Rich Black);
   font-weight: var(--fw-400);
   line-height: 1.6;
 }
@@ -972,7 +973,7 @@ main {
   --scale: 0.8;
 
   background: var(--jet);
-  color: var(--Bittersweet);
+  color: var(--Rich Black);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1097,7 +1098,7 @@ main {
   transition: var(--transition-1);
 }
 
-.blog-post-item > a:hover .blog-item-title { color: var(--Bittersweet); }
+.blog-post-item > a:hover .blog-item-title { color: var(--Rich Black); }
 
 .blog-text {
   color: var(--light-gray);
@@ -1156,7 +1157,7 @@ main {
 
 .form-input::placeholder { font-weight: var(--fw-500); }
 
-.form-input:focus { border-color: var(--Bittersweet); }
+.form-input:focus { border-color: var(--Rich Black); }
 
 textarea.form-input {
   min-height: 100px;
@@ -1174,7 +1175,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   position: relative;
   width: 100%;
   background: var(--border-gradient-onyx);
-  color: var(--Bittersweet);
+  color: var(--Rich Black);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1612,7 +1613,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .filter-item button:hover { color: var(--light-gray-70); }
 
-  .filter-item button.active { color: var(--Bittersweet); }
+  .filter-item button.active { color: var(--Rich Black); }
 
   /* portfolio and blog grid */
 
