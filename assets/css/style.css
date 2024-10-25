@@ -4,8 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
- */
+ * copyright 2024 @Ariel0503
 
 
 
@@ -56,6 +55,7 @@
   --onyx: hsl(240, 1%, 17%);
   --white: hsl(0, 0%, 100%);
   --silver: hsl(0,0%,75%);
+  --cyan:hsl(195,100%,10%);
   /*--eerie-black-1: hsl(240, 2%, 13%);
   --eerie-black-2: hsl(240, 2%, 12%);*/
   --smoky-black: hsl(0, 0%, 7%);
@@ -64,7 +64,7 @@
   --eerie-black-1: hsl(240, 2%, 13%);
   --ivory: hsl(60,100%,97%);
   --light-coral: hsl(0,79%,72%);
-  --vegas-gold: hsl(45, 54%, 58%);
+  /*--vegas-gold: hsl(45, 54%, 58%);*/
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   /*--bittersweet-shimmer: hsl(0, 43%, 51%);*/
@@ -201,7 +201,7 @@ article {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--eerie-black-1);
+  background: var(--border-gradient-silver);
   border-radius: inherit;
   z-index: -1;
 }
@@ -345,8 +345,8 @@ main {
 }
 
 .info-content .title {
-  color: var(--white-1);
-  background: var(--onyx);
+  color: var(--black);
+  background: var(--white);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
@@ -416,7 +416,7 @@ main {
 }
 
 .contact-title {
-  color: var(--light-gray-70);
+  color: var(--black);
   font-size: var(--fs-8);
   text-transform: uppercase;
   margin-bottom: 2px;
@@ -439,12 +439,12 @@ main {
 }
 
 .social-item .social-link {
-  color: var(--light-gray-70);
+  color: var(--silver);
   font-size: 18px;
 }
 
 
-.social-item .social-link:hover { color: var(--light-gray); }
+.social-item .social-link:hover { color: var(--cyan); }
 
 
 
@@ -459,7 +459,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(240, 1%, 17%, 0.75);
+  background: hsla(240, 5%, 96%, 0.75);
   backdrop-filter: blur(10px);
   border: 1px solid var(--jet);
   border-radius: 12px 12px 0 0;
@@ -476,7 +476,7 @@ main {
 }
 
 .navbar-link {
-  color: var(--light-gray);
+  color: var(--black);
   font-size: var(--fs-8);
   padding: 20px 7px;
   transition: color var(--transition-1);
@@ -498,7 +498,7 @@ main {
 .about .article-title { margin-bottom: 15px; }
 
 .about-text {
-  color: var(--light-gray);
+  color: var(--black);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -549,7 +549,7 @@ main {
 .service-item-title { margin-bottom: 7px; }
 
 .service-item-text {
-  color: var(--light-gray);
+  color: var(--black);
   font-size: var(--fs-6);
   font-weight: var(--fw-3);
   line-height: 1.6;
@@ -596,7 +596,7 @@ main {
 .testimonials-item-title { margin-bottom: 7px; }
 
 .testimonials-text {
-  color: var(--light-gray);
+  color: var(--black);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -678,14 +678,14 @@ main {
   position: absolute;
   top: 15px;
   right: 15px;
-  background: var(--onyx);
+  background: var(--white);
   border-radius: 8px;
   width: 32px;
   height: 32px;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--white-2);
+  color: var(--black);
   font-size: 18px;
   opacity: 0.7;
 }
@@ -709,13 +709,13 @@ main {
 
 .modal-content time {
   font-size: var(--fs-6);
-  color: var(--light-gray-70);
+  color: var(--black);
   font-weight: var(--fw-300);
   margin-bottom: 10px;
 }
 
 .modal-content p {
-  color: var(--light-gray);
+  color: var(--black);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
@@ -796,7 +796,7 @@ main {
 }
 
 .timeline-list span {
-  color: var(--vegas-gold);
+  color: var(--cyan);
   font-weight: var(--fw-400);
   line-height: 1.6;
 }
@@ -818,13 +818,13 @@ main {
   left: -33px;
   height: 6px;
   width: 6px;
-  background: var(--text-gradient-cyan);
+  background: var(--light-coral);
   border-radius: 50%;
   box-shadow: 0 0 0 4px var(--jet);
 }
 
 .timeline-text {
-  color: var(--light-gray);
+  color: var(--black);
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
@@ -849,13 +849,13 @@ main {
 }
 
 .skill .title-wrapper data {
-  color: var(--light-gray);
+  color: var(--ivory);
   font-size: var(--fs-7);
   font-weight: var(--fw-300);
 }
 
 .skill-progress-bg {
-  background: var(--jet);
+  background: var(--white);
   width: 100%;
   height: 8px;
   border-radius: 10px;
