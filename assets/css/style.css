@@ -852,14 +852,14 @@ main {
 }
 
 .filter-select {
-  background: var(--ivory);
-  color: var(--light-gray);
+  background: var(--white);
+  color: var(--grey);
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
   padding: 12px 16px;
-  border: 1px solid var(--jet);
+  border: 1px solid var(--white);
   border-radius: 14px;
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
@@ -868,12 +868,12 @@ main {
 .filter-select.active .select-icon { transform: rotate(0.5turn); }
 
 .select-list {
-  background: var(--ivory);
+  background: var(--white);
   position: absolute;
   top: calc(100% + 6px);
   width: 100%;
   padding: 6px;
-  border: 1px solid var(--jet);
+  border: 1px solid var(--white);
   border-radius: 14px;
   z-index: 2;
   opacity: 0;
@@ -889,8 +889,8 @@ main {
 }
 
 .select-item button {
-  background: var(--ivory);
-  color: var(--light-gray);
+  background: var(--white);
+  color: var(--grey);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   text-transform: capitalize;
