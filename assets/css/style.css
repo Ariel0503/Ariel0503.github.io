@@ -723,9 +723,11 @@ main {
 }
 
 .clients-item img:hover { filter: grayscale(0); }
-
-
-
+.resize { 
+     width: 200px; /* Set your desired width */ 
+     height: 200px; /* Set your desired height */ 
+     object-fit: cover; /* Ensures images maintain aspect ratio and fill the container */ 
+   } 
 
 
 /*-----------------------------------*\
