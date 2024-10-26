@@ -725,7 +725,7 @@ main {
 .clients-item img:hover { filter: grayscale(0); }
 .resize { 
      height: 40px; /* Set your desired height */ 
-     object-fit: cover; /* Ensures images maintain aspect ratio and fill the container */ 
+     object-fit: none; /* Ensures images maintain aspect ratio and fill the container */ 
    } 
 
 
