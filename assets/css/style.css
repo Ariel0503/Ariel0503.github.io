@@ -2,13 +2,8 @@
   #style.css
 \*-----------------------------------*/
 
-
 /**
  * copyright 2024 @Ariel0503
-
-
-
-
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
@@ -50,7 +45,13 @@
   );
 
   /* solid */
-
+	--metal-blue:hsl(194, 42%, 31%);
+	--dark-cyan: hsl(198, 18%, 41%);
+	--grey:	hsl(208, 5%, 50%);
+	--grey purple: hsl(325, 14%, 67%);
+--purple-pink:hsl(311, 30%, 76%);
+--white: hsl(0, 0%, 100%);
+/*
   --jet: hsl(0, 0%, 22%);
   --onyx: hsl(240, 1%, 17%);
   --white: hsl(0, 0%, 100%);
@@ -63,12 +64,12 @@
   --white-2: hsl(0, 0%, 98%);*/
   --eerie-black-1: hsl(240, 2%, 13%);
   --ivory: hsl(60,100%,97%);
-  --light-coral: hsl(0,79%,72%);
+  --light-coral: hsl(194, 42%, 31%);
   /*--vegas-gold: hsl(45, 54%, 58%);*/
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   /*--bittersweet-shimmer: hsl(0, 43%, 51%);*/
-
+*/
   /**
    * typography
    */
@@ -167,8 +168,8 @@ body { background: var(--white); }
 
 .sidebar,
 article {
-  background: var(--ivory);
-  border: 1px solid var(--jet);
+  background: var(--metal-blue);
+  border: 1px solid var(--white);
   border-radius: 20px;
   padding: 15px;
   box-shadow: var(--shadow-1);
@@ -178,13 +179,13 @@ article {
 .separator {
   width: 100%;
   height: 1px;
-  background: var(--jet);
+  background: var(--white);
   margin: 16px 0;
 }
 
 .icon-box {
   position: relative;
-  background: var(--border-gradient-silver);
+  background: var(--white);
   width: 30px;
   height: 30px;
   border-radius: 8px;
@@ -192,7 +193,7 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-  color: var(--light-coral);
+  color: var(--white);
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
@@ -201,7 +202,7 @@ article {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--border-gradient-silver);
+  background: var(--white);
   border-radius: inherit;
   z-index: -1;
 }
@@ -224,7 +225,7 @@ article.active {
 .h3,
 .h4,
 .h5 {
-  color: var(--white-2);
+  color: var(--white);
   text-transform: capitalize;
 }
 
@@ -251,7 +252,7 @@ article.active {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-gradient-cyan);
+  background: none;
   border-radius: 3px;
 }
 
@@ -261,12 +262,12 @@ article.active {
 }
 
 .has-scrollbar::-webkit-scrollbar-track {
-  background: var(--onyx);
+  background: var(--white);
   border-radius: 5px;
 }
 
 .has-scrollbar::-webkit-scrollbar-thumb {
-  background: var(--light-coral);
+  background: var(--white);
   border-radius: 5px;
 }
 
@@ -274,7 +275,7 @@ article.active {
 
 .content-card {
   position: relative;
-  background: var(--border-gradient-silver);
+  background: var(--metal-blue);
   padding: 15px;
   padding-top: 45px;
   border-radius: 14px;
@@ -287,7 +288,7 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--bg-gradient-silver);
+  background: var(--metal-blue);
   border-radius: inherit;
   z-index: -1;
 }
@@ -345,8 +346,8 @@ main {
 }
 
 .info-content .title {
-  color: var(--black);
-  background: var(--white);
+  color: var(--white);
+  background: var(--metal-blue);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
@@ -360,8 +361,8 @@ main {
   right: -15px;
   border-radius: 0 15px;
   font-size: 13px;
-  color: var(--light-coral);
-  background: var(--border-gradient-silver);
+  color: var(--white);
+  background: var(--grey);
   padding: 10px;
   box-shadow: var(--shadow-2);
   transition: var(--transition-1);
@@ -373,16 +374,16 @@ main {
   position: absolute;
   inset: 1px;
   border-radius: inherit;
-  background: var(--bg-gradient-silver);
+  background: var(--white);
   transition: var(--transition-1);
   z-index: -1;
 }
 
 .info_more-btn:hover,
-.info_more-btn:focus { background: var(--bg-gradient-yellow-1); }
+.info_more-btn:focus { background: var(--purple-pink); }
 
 .info_more-btn:hover::before,
-.info_more-btn:focus::before { background: var(--bg-gradient-yellow-2); }
+.info_more-btn:focus::before { background: var(--purple-pink); }
 
 .info_more-btn span { display: none; }
 
@@ -416,14 +417,14 @@ main {
 }
 
 .contact-title {
-  color: var(--black);
+  color: var(--white);
   font-size: var(--fs-8);
   text-transform: uppercase;
   margin-bottom: 2px;
 }
 
 .contact-info :is(.contact-link, time, address) {
-  color: var(--white-2);
+  color: var(--white);
   font-size: var(--fs-7);
 }
 
@@ -439,12 +440,12 @@ main {
 }
 
 .social-item .social-link {
-  color: var(--silver);
+  color: var(--white);
   font-size: 18px;
 }
 
 
-.social-item .social-link:hover { color: var(--cyan); }
+.social-item .social-link:hover { color: var(--purple-pink); }
 
 
 
