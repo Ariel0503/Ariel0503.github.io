@@ -717,7 +717,7 @@ main {
 }
 
 .clients-item img {
-  height: 100%;
+  width: 100%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
