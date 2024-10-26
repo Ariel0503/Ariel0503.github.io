@@ -49,27 +49,8 @@
 	--dark-cyan: hsl(198, 18%, 41%);
 	--grey:	hsl(208, 5%, 50%);
 	--grey-purple: hsl(325, 14%, 67%);
---purple-pink:hsl(311, 30%, 76%);
---white: hsl(0, 0%, 100%);
-/*
-  --jet: hsl(0, 0%, 22%);
-  --onyx: hsl(240, 1%, 17%);
-  --white: hsl(0, 0%, 100%);
-  --silver: hsl(0,0%,75%);
-  --cyan:hsl(195,100%,10%);
-  /*--eerie-black-1: hsl(240, 2%, 13%);
-  --eerie-black-2: hsl(240, 2%, 12%);*/
-  --smoky-black: hsl(0, 0%, 7%);
-  /*--white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 0%, 98%);*/
-  --eerie-black-1: hsl(240, 2%, 13%);
-  --ivory: hsl(60,100%,97%);
-  --light-coral: hsl(194, 42%, 31%);
-  /*--vegas-gold: hsl(45, 54%, 58%);*/
-  --light-gray: hsl(0, 0%, 84%);
-  --light-gray-70: hsla(0, 0%, 84%, 0.7);
-  /*--bittersweet-shimmer: hsl(0, 43%, 51%);*/
-*/
+	--purple-pink:hsl(311, 30%, 76%);
+	--white: hsl(0, 0%, 100%);
   /**
    * typography
    */
@@ -144,11 +125,11 @@ input, textarea {
 }
 
 ::selection {
-  background: var(--light-coral);
-  color: var(--smoky-black);
+  background: var(--purple-pink);
+  color: var(--black);
 }
 
-:focus { outline-color: var(--light-coral); }
+:focus { outline-color: var(--purple-pink); }
 
 html { font-family: var(--ff-roboto); }
 
@@ -1104,7 +1085,7 @@ main {
   width: 100%;
   border-radius: 16px;
   margin-bottom: 30px;
-  border: 1px solid var(--white);
+  border: 1px solid var(--black);
   overflow: hidden;
 }
 
@@ -1129,11 +1110,11 @@ main {
 }
 
 .form-input {
-  color: var(--white-2);
+  color: var(--white);
   font-size: var(--fs-6);
   font-weight: var(--fw-400);
   padding: 13px 20px;
-  border: 1px solid var(--jet);
+  border: 1px solid var(--black);
   border-radius: 14px;
   outline: none;
 }
@@ -1157,7 +1138,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .form-btn {
   position: relative;
   width: 100%;
-  background: var(--dark-cyan);
+  background: var(--white);
   color: var(--white);
   display: flex;
   justify-content: center;
