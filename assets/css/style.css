@@ -45,7 +45,7 @@
   );
 
   /* solid */
-	--metal-blue:hsl(194, 42%, 31%);
+	--metal-blue:hsl(194.04, 41.59%, 22.16%);
 	--dark-cyan: hsl(198, 18%, 41%);
 	--grey:	hsl(208, 5%, 50%);
 	--grey-purple: hsl(325, 14%, 67%);
