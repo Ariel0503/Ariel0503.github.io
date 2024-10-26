@@ -354,10 +354,10 @@ main {
 }
 
 .info_more-btn:hover,
-.info_more-btn:focus { background: var(--purple-pink); }
+.info_more-btn:focus { background: var(--ivory); }
 
 .info_more-btn:hover::before,
-.info_more-btn:focus::before { background: var(--purple-pink); }
+.info_more-btn:focus::before { background: var(--ivory); }
 
 .info_more-btn span { display: none; }
 
@@ -418,7 +418,7 @@ main {
   font-size: 18px;
 }
 
-.social-item .social-link:hover { color: var(--purple-pink); }
+.social-item .social-link:hover { color: var(--ivory); }
 
 /*-----------------------------------*\
   #NAVBAR
@@ -785,9 +785,9 @@ main {
   left: -33px;
   height: 6px;
   width: 6px;
-  background: var(--grey);
+  background: var(--black);
   border-radius: 50%;
-  box-shadow: 0 0 0 4px var(--purple-pink);
+  box-shadow: 0 0 0 4px var(--white);
 }
 
 .timeline-text {
