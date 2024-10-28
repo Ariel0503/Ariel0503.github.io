@@ -694,7 +694,7 @@ main {
  * #clients 
  */
 
-.clients { margin-bottom: 15px; }
+.clients { margin-bottom: 15px; color: var(--white);}
 
 .clients-list {
   display: flex;
@@ -718,7 +718,7 @@ main {
 
 .clients-item img {
   width: 100%;
-  filter: grayscale(0);
+  filter: grayscale(1);
   transition: var(--transition-1);
 }
 
