@@ -713,15 +713,15 @@ main {
   justify-content: flex-start;
   align-items: flex-start;
   gap: 15px;
-  margin: 0 -15px;
-  padding: 25px;
+  margin: 0 -10px;
+  padding: 20px;
   padding-bottom: 25px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
   scroll-snap-type: inline mandatory;
   scroll-padding-inline: 25px;
-  scrollbar-color: var(--metal blue);
+  scrollbar-color: var(--metal-blue);
 }
 
 .clients-item {
