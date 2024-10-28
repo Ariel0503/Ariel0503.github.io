@@ -694,7 +694,7 @@ main {
  * #clients 
  */
 
-.clients { margin-bottom: 15px; color: var(--white);}
+.clients { margin-bottom: 15px;background: var(--white);}
 
 .clients-list {
   display: flex;
