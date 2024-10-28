@@ -5,6 +5,13 @@
 /**
  * copyright 2024 @Ariel0503
 
+/**
+ * copyright 2024 @Ariel0503
+
+
+
+
+
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -45,18 +52,22 @@
   );
 
   /* solid */
+
 	--metal-blue:hsl(194.04, 41.59%, 22.16%);
 	--dark-cyan: hsl(198, 18%, 41%);
 	--grey:	hsl(208, 5%, 50%);
 	--grey-purple: hsl(325, 14%, 67%);
 	--purple-pink:hsl(311, 30%, 76%);
 	--white: hsl(0, 0%, 100%);
+
   /**
    * typography
    */
 
   /* font-family */
+
   --ff-roboto: "Roboto", sans-serif;
+
 
   /* font-size */
   --fs-1: 24px;
@@ -127,6 +138,7 @@ input, textarea {
 }
 
 ::selection {
+
   background: var(--white);
   color: var(--black);
 }
@@ -143,8 +155,10 @@ body { background: var(--white); }
 
 .sidebar,
 article {
+
   background: var(--metal-blue);
   border: 1px solid var(--white);
+
   border-radius: 20px;
   padding: 15px;
   box-shadow: var(--shadow-1);
@@ -160,7 +174,9 @@ article {
 
 .icon-box {
   position: relative;
+
   background: none;
+
   width: 30px;
   height: 30px;
   border-radius: 8px;
@@ -168,7 +184,9 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
+
   color: var(--white);
+
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
@@ -250,6 +268,7 @@ article.active {
 
 .has-scrollbar::-webkit-scrollbar-thumb {
   background: var(--white);
+
   border-radius: 5px;
 }
 
@@ -271,6 +290,7 @@ article.active {
   position: absolute;
   inset: 1px;
   background: var(--metal-blue);
+
   border-radius: inherit;
   z-index: -1;
 }
@@ -454,7 +474,6 @@ main {
 
 .navbar-link:hover,
 .navbar-link:focus { color: var(--ivory); }
-
 .navbar-link.active { color: var(--white); }
 
 /*-----------------------------------*\
@@ -1074,6 +1093,7 @@ main {
   transition: var(--transition-1);
 }
 
+
 .blog-post-item > a:hover .blog-item-title { color: var(--purple-pink); }
 
 .blog-text {
@@ -1189,10 +1209,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 .form-btn:disabled:hover { background: var(--grey); }
 
 .form-btn:disabled:hover::before { background: var(--grey); }
-
-
-
-
 
 /*-----------------------------------*\
   #RESPONSIVE
