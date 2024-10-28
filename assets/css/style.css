@@ -1400,20 +1400,20 @@ textarea.form-input::-webkit-resizer { display: none; }
     padding-top: 25px;
   }
 
-  .testimonials-avatar-box {
+/*  .testimonials-avatar-box {
     transform: translate(30px, -30px);
     border-radius: 20px;
-  }
+  }*/
 
-  .testimonials-avatar-box img { width: 80px; }
+  .testimonials-avatar-box img { width: 80px; }*/
 
   .testimonials-item-title {
     margin-bottom: 10px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
   .testimonials-item-subtitle {
     margin-bottom: 10px;
-    margin-left: 20px;
+    margin-left: 0px;
   }
   .testimonials-text {
     line-clamp: 2;
