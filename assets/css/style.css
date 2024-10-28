@@ -5,13 +5,6 @@
 /**
  * copyright 2024 @Ariel0503
 
-/**
- * copyright 2024 @Ariel0503
-
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -547,8 +540,8 @@ main {
 
 .testimonials { margin-bottom: 30px; }
 
-.testimonials-title { margin-bottom: 20px; }
-.testimonials-subtitle { margin-bottom: 20px; }
+.testimonials-title { margin-bottom: 20px; text-align: center;}
+.testimonials-subtitle { margin-bottom: 20px; text-align: center;}
 
 .testimonials-list {
   display: flex;
