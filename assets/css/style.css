@@ -540,8 +540,8 @@ main {
 
 .testimonials { margin-bottom: 30px; }
 
-.testimonials-title { margin-bottom: 20px; text-align: center;}
-.testimonials-subtitle { margin-bottom: 20px; text-align: center;}
+.testimonials-title { margin-bottom: 20px;}
+.testimonials-subtitle { margin-bottom: 20px;}
 
 .testimonials-list {
   display: flex;
@@ -572,8 +572,8 @@ main {
   box-shadow: var(--shadow-1);
 }*/
 
-.testimonials-item-title { margin-bottom: 7px; }
-.testimonials-item-subtitle { margin-bottom: 7px; }
+.testimonials-item-title { margin-bottom: 7px; text-align: center;}
+.testimonials-item-subtitle { margin-bottom: 7px; text-align: center;}
 
 .testimonials-text {
   color: var(--white);
