@@ -713,7 +713,6 @@ main {
   justify-content: flex-start;
   align-items: flex-start;
   gap: 15px;
-  margin: 0 -10px;
   padding: 20px;
   padding-bottom: 25px;
   overflow-x: auto;
@@ -1457,7 +1456,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .clients-list {
     gap: 50px;
-    margin: 0 -30px;
     padding: 45px;
     scroll-padding-inline: 45px;
     background: var(--white);
