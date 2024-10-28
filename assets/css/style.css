@@ -1450,6 +1450,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin: 0 -30px;
     padding: 45px;
     scroll-padding-inline: 45px;
+    background: var(--dark-cyan);
   }
 
   .clients-item { min-width: calc(33.33% - 35px); }
