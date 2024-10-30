@@ -4,7 +4,7 @@ Martina Bharthi Priya
 
 alt = Martina Bharthi Priya
 Martina Bharthi Priya
-Freelance strategy consultant
+Business management consultant
 
 Show Contacts
 
@@ -29,34 +29,32 @@ Contact
 
 About me
 
-Hi, I am Martina from Paris, France. I have over 15 years of experience combining software engineering and strategy consulting. 
-My job is to help businesses find solutions to move their company forward sustainably. Moreover, My work is completely based on expertise and data. 
-I worked for big international firms and scaleups.
+I am a Business management consultant with an MBA from prestigious european business school and 10 years of software engineering background. I possess skills for data analysis, client relations and international team management.
 
-- Global leadership & Business acumen - Upto 50 member team, Locations: US, India, Germany and France. 
-- Business proposals, recruitment, procurement, financials, target setting and performance management & KPIs.
-- External/internal client relationship - Team lead to C-levels.
-- Software engineering - End to end software development using agile methodologies and design thinking.
+- Global leadership & Business acumen : Upto 50 member team for fortune 500 companies, Locations: US, India, Germany and France. 
+- Business skills : Varied consulting engagements in automotive & food industry, with an MBA from reknown HEC Paris Business School.
+- Market research & Data analysis :> Certified expert in Power BI. Quantitative and qualitative analysis based on study of public & private databases, competitor research, product evaluations, financial reports, expert interviews and surveys. 
+- Software engineering : Proven expertise in end to end software development using agile methodologies and design thinking in automotive and health care.
 
 ## service
 
-What i do
+What I do for you
 
 alt = strategy icon
-Business & operations strategy
-Put in place right approach customized for your market and needs.
+Business advices
+I provide high quality business recommendations for your company based on detailed study and data analysis.
 
 alt = digital icon
 Digitalization approach
-Developing strategy, roadmap and tols for increasing operational efficiency or competitive advantage of your organization.
+ I develop strategy, roadmap and tools using software technologies for increasing operational efficiency or competitive advantage of your organization.
 
 alt = market study icon
-Talent management & research
-Provide off-shore employees from India with inter-cultural trainings and reliable market studies customized for your need.
+Market research & data analysis
+I prepare reliable analysis & market studies customized for your need.
 
 alt = sustainability icon
 Sustainability strategy
-Focused on profitable actions towards sustainability goals.
+I create profitable frameworks towards sustainability goals based on extensive studies.
 
 
 ## testimonials
@@ -87,7 +85,7 @@ Within a short time she understood the features of the existing product. Her det
 
 ## clients
 
-Clients
+Clients/Employers
 
 alt = client logo
 
@@ -97,9 +95,9 @@ alt = client logo
 
 Resume
 
-Employements
+Professional highlights
 
-Senior Consultant
+Senior business management consultant
 2019 — 2023
 - Provided strategic advices on operational transformation of finances, manufacturing approach, water sustainability initiatives, Market entry and product. Managed market study for product demand, competitor benchmarking and water sustainability. 
 
@@ -109,7 +107,7 @@ Research Consultant
 - Recommended adjustments for supplier strategy for varying needs in automotive engineering.
 - Go-to-market strategy for artificial intelligence based educational toy.
 
-Software development team Manager
+Software engineering team manager
 2009 — 2017
 - Led a team of 40 members in software development (Resource database & forecasting tool, Shared car parts database, Wiring harness data analytics, Employee performance management) using service oriented architecture, design thinking and agile methodology enabling a department-wide cross-functional UX team and adaptation of Agile processes.
 - Spearheaded successful development and maintenance of 3 internal databases on vehicle testing and intellectual property.
@@ -125,27 +123,37 @@ HEC Paris Business School, France
 2017 — 2019
  - Awarded Rainbow Foundation bridge and HEC Excellence scholarships.
  - Leadership committee of industry club, entrepreneurship club and MBA sports tournament.
- -Organized trainings and events.
+ - Organized trainings and events.
 
 Electrical and Electronics Engineering
 Anna University, India
 2002 — 2006
 - Led activities on literature and arts.
--Organized women's event and cultural programs.
+- Organized women's event and cultural programs.
 
 My skills
 
-Business Strategy
+Hard skills
+Business strategy & planning
 80%
-Project Management
-90%
-Market research
-90%
-Financial modelling
-70%
 Data analysis
+90%
+Financial modelling & analysis
 70%
+Management (International teams, Products & Projects)
+90%
+Software product development
+90%
+Writing & research
+90%
 
+Soft skills
+Leadership
+Prolem-solving
+Analytical
+Creativity
+Communication
+Empathy
 
 
 # portfolio
