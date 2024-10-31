@@ -833,9 +833,9 @@ main {
   	gap: 20px;
 	  padding: 20px; }
 .skills-divider{
-  background: var(--white);
-  border: 15px;
-  border-radius: 8px;
+  inset: 1px;
+  background: var(--dark-cyan);
+  border-radius: inherit;
   }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
