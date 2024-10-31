@@ -288,7 +288,6 @@ article.active {
   position: absolute;
   inset: 1px;
   background: var(--metal-blue);
-
   border-radius: inherit;
   z-index: -1;
 }
@@ -829,7 +828,7 @@ main {
   margin-bottom: inherit;}
 .skills-list { 
 	display: grid;
-  	grid-template-columns: 300px 2;
+  	grid-template-columns: 300px 300px;
   	gap: 20px;
 	padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
