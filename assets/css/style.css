@@ -828,12 +828,14 @@ main {
   margin-bottom: 20px;}
 .skills-list { 
 	  columns: 2;
-    border: 15px;
-    border-radius: 8px;
     box-shadow: var(--shadow-2);
     height: 500px;
   	gap: 20px;
 	  padding: 20px; }
+.skill-divider{
+  border: 15px;
+  border-radius: 8px;
+  }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
 .skills.title-wrapper {
