@@ -977,8 +977,8 @@ main {
 .project-item-icon-box {
   --scale: 0.8;
 
-  background: var(--jet);
-  color: var(--light-coral);
+  background: var(--black);
+  color: var(--white);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1011,7 +1011,7 @@ main {
 .project-category { margin-left: 10px; }
 
 .project-title {
-  color: var(--white-2);
+  color: var(--white);
   font-size: var(--fs-5);
   font-weight: var(--fw-400);
   text-transform: capitalize;
