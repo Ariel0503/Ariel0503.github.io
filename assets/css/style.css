@@ -829,7 +829,7 @@ main {
   margin-bottom: inherit;}
 .skills-list { 
 	display: grid;
-  	grid-template-columns: 1fr;
+  	grid-template-columns: 300px 2;
   	gap: 20px;
 	padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
