@@ -826,8 +826,12 @@ main {
   color: var(--grey);
   font-size: var(--fs-8);
   font-weight: var(--fw-100);
-  margin-bottom: 20px;}
-.skills-list { padding: 20px; }
+  margin-bottom: inherit;}
+.skills-list { 
+	display: grid;
+  	grid-template-columns: 1fr;
+  	gap: 20px;
+	padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
 .skills.title-wrapper {
@@ -855,10 +859,6 @@ main {
   height: 100%;
   border-radius: inherit;
 }
-.skills-divider {
-	columns: 200px 2;
-	height: 500px;
-	border: 1px ;}
 
 
 /*-----------------------------------*\
