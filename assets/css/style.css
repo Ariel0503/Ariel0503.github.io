@@ -821,10 +821,10 @@ main {
  */
 
 .skills-title { margin-bottom: 20px; }
-/*.skills-divider {
-	columns: 300px 2; 
-	border: 1px ;}*/
-.skills-subtitle { margin-bottom: 10px; columns: 300px 2}
+.skills-divider {
+	columns: 200px 2; 
+	border: 1px ;}
+.skills-subtitle { margin-bottom: 10px;}
 .skills-footnote { 
   color: var(--grey);
   font-size: var(--fs-8);
