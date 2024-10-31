@@ -829,13 +829,13 @@ main {
 .skills-list { 
 	  columns: 2;
     box-shadow: var(--shadow-2);
-    height: 500px;
   	gap: 20px;
 	  padding: 20px; }
 .skills-divider{
   inset: 1px;
-  background: var(--dark-cyan);
-  border-radius: inherit;
+  box-shadow: var(--shadow-2);
+  height: 400px;
+  padding: 10px;
   }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
