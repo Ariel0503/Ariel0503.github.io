@@ -819,16 +819,16 @@ main {
  * skills 
  */
 
-.skills-title { margin-bottom: 20px; }
-.skills-subtitle { margin-bottom: 10px; }
+.skills-title { margin-bottom: 20px;}
+.skills-subtitle { margin-bottom: 10px;}
 .skills-footnote { 
   color: var(--grey);
   font-size: var(--fs-8);
   font-weight: var(--fw-100);
   margin-bottom: inherit;}
 .skills-list { 
-	display: grid;
-  	grid-template-columns: 300px 300px;
+	  columns: 2;
+    height: 500px;
   	gap: 20px;
 	padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
