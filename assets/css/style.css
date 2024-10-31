@@ -1019,7 +1019,7 @@ main {
 }
 
 .project-category {
-  color: var(--light-gray-70);
+  color: var(--grey-purple:);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
@@ -1617,9 +1617,9 @@ textarea.form-input::-webkit-resizer { display: none; }
     transition: var(--transition-1);
   }
 
-  .filter-item button:hover { color: var(--light-gray-70); }
+  .filter-item button:hover { color: var(--grey-purple); }
 
-  .filter-item button.active { color: var(--light-coral); }
+  .filter-item button.active { color: var(--purple-pink); }
 
   /* portfolio and blog grid */
 
