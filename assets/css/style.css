@@ -821,15 +821,15 @@ main {
  */
 
 .skills-title { margin-bottom: 20px; }
-.skills-divider {
+/*.skills-divider {
 	columns: 300px 2; 
-	border: 1px ;}
-.skills-subtitle { margin-bottom: 10px; }
+	border: 1px ;}*/
+.skills-subtitle { margin-bottom: 10px; columns: 300px 2}
 .skills-footnote { 
   color: var(--grey);
   font-size: var(--fs-8);
   font-weight: var(--fw-100);
-  margin-bottom: 8px;}
+  margin-bottom: 20px;}
 .skills-list { padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
