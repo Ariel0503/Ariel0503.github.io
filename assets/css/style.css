@@ -825,11 +825,12 @@ main {
   color: var(--grey);
   font-size: var(--fs-8);
   font-weight: var(--fw-100);
-  margin-bottom: inherit;}
+  margin-bottom: 20px;}
 .skills-list { 
 	  columns: 2;
     border: 15px;
     border-radius: 8px;
+    box-shadow: var(--shadow-2);
     height: 500px;
   	gap: 20px;
 	  padding: 20px; }
