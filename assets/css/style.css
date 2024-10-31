@@ -818,7 +818,7 @@ main {
 .skills-title { margin-bottom: 20px; }
 .skills-subtitle { margin-bottom: 20px; }
 .skills-divider { padding: 20px; columns: 300px 2;}
-.skills-list { padding: 20px; columns: 300px 2;}
+.skills-list { padding: 20px; }
 
 
 .skills-item:not(:last-child) { margin-bottom: 15px; }
