@@ -836,6 +836,8 @@ main {
   height: 400px;
   padding: 10px;
   border-radius: 14px;
+  z-index: -1;
+  gap: 20px;
   }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
