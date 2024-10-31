@@ -821,11 +821,9 @@ main {
  */
 
 .skills-title { margin-bottom: 20px; }
-.skills-divider { 
-	padding: 20px; 
+.skills-divider {
 	columns: 300px 2; 
-	border: 1px ; 
-	height: 500px;}
+	border: 1px ;}
 .skills-subtitle { margin-bottom: 10px; }
 .skills-footnote { 
   color: var(--grey);
