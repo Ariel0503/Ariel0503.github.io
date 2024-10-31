@@ -821,11 +821,18 @@ main {
  */
 
 .skills-title { margin-bottom: 20px; }
-.skills-subtitle { margin-bottom: 20px; }
-.skills-divider { padding: 20px; columns: 300px 2; border: 1px ; height: 500px;}
+.skills-divider { 
+	padding: 20px; 
+	columns: 300px 2; 
+	border: 1px ; 
+	height: 500px;}
+.skills-subtitle { margin-bottom: 10px; }
+.skills-footnote { 
+  color: var(--grey);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-100);
+  margin-bottom: 8px;}
 .skills-list { padding: 20px; }
-
-
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
 .skills.title-wrapper {
@@ -853,12 +860,6 @@ main {
   height: 100%;
   border-radius: inherit;
 }
-
-.skills-footnote { 
-  color: var(--grey);
-  font-size: var(--fs-8);
-  font-weight: var(--fw-100);
-  margin-bottom: 20px;}
 
 
 
