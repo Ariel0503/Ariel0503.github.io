@@ -825,7 +825,8 @@ main {
   color: var(--grey);
   font-size: var(--fs-8);
   font-weight: var(--fw-100);
-  margin-bottom: 20px;}
+  margin-bottom: 20px;
+  gap: 10px;}
 .skills-list { 
 	  columns: 2;
   	gap: 10px;
