@@ -828,12 +828,13 @@ main {
   margin-bottom: 20px;}
 .skills-list { 
 	  columns: 2;
-  	gap: 20px;
+  	gap: 10px;
 	  padding: 20px; }
 .skills-divider{
   display: flex;
   box-shadow: var(--shadow-2);
   height: 400px;
+  width: 300px;
   padding: 10px;
   border-radius: 14px;
   z-index: -1;
