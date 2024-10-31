@@ -829,7 +829,7 @@ main {
 .skills-list { 
 	  columns: 2;
     border: 15px;
-    height: 300px;
+    height: 500px;
   	gap: 20px;
 	padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
