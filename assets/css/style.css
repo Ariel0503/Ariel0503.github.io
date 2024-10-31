@@ -816,7 +816,7 @@ main {
  */
 
 .skills-title { margin-bottom: 20px; }
-.skills-divider { columns: 300px 2; margin-bottom: 8px;}
+.skills-divider { columns: 300px 2;height: 300px;}
 .skills-list { padding: 20px; }
 
 
