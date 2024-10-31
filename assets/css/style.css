@@ -1019,7 +1019,7 @@ main {
 }
 
 .project-category {
-  color: var(--grey-purple:);
+  color: var(--grey-purple);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
