@@ -832,7 +832,8 @@ main {
     height: 500px;
   	gap: 20px;
 	  padding: 20px; }
-.skill-divider{
+.skills-divider{
+  background: var(--white);
   border: 15px;
   border-radius: 8px;
   }
