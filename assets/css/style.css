@@ -839,7 +839,7 @@ main {
   z-index: -1;
   gap: 10px;
   padding-bottom: 35px;
-  overflow-x: scroll;
+  overflow-x: auto;
   }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
