@@ -831,6 +831,7 @@ main {
   	gap: 20px;
 	  padding: 20px; }
 .skills-divider{
+  display: flex;
   box-shadow: var(--shadow-2);
   height: 400px;
   padding: 10px;
