@@ -829,6 +829,7 @@ main {
 .skills-list { 
 	  columns: 2;
     border: 15px;
+    border-radius: 8px;
     height: 500px;
   	gap: 20px;
 	padding: 20px; }
