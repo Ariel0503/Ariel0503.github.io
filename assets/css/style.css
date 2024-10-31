@@ -822,7 +822,8 @@ main {
 
 .skills-title { margin-bottom: 20px; }
 .skills-divider {
-	columns: 200px 2; 
+	columns: 200px 2;
+	height: 500px;
 	border: 1px ;}
 .skills-subtitle { margin-bottom: 10px;}
 .skills-footnote { 
