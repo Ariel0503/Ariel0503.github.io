@@ -167,9 +167,7 @@ article {
 
 .icon-box {
   position: relative;
-
   background: none;
-
   width: 30px;
   height: 30px;
   border-radius: 8px;
@@ -177,9 +175,7 @@ article {
   justify-content: center;
   align-items: center;
   font-size: 16px;
-
   color: var(--white);
-
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
@@ -524,7 +520,7 @@ main {
 
 .service-icon-box { margin-bottom: 10px; }
 
-.service-icon-box img { margin: auto; }
+.service-icon-box img { margin: auto; color: var(--white); }
 
 .service-content-box { text-align: center; }
 
