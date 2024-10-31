@@ -832,7 +832,7 @@ main {
     border-radius: 8px;
     height: 500px;
   	gap: 20px;
-	padding: 20px; }
+	  padding: 20px; }
 .skills-item:not(:last-child) { margin-bottom: 15px; }
 
 .skills.title-wrapper {
