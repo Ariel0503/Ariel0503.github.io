@@ -857,7 +857,8 @@ main {
 .skills-footnote { 
   color: var(--grey);
   font-size: var(--fs-8);
-  font-weight: var(--fw-100); }
+  font-weight: var(--fw-100);
+  margin-bottom: 20px;}
 
 
 
