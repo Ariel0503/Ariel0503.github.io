@@ -849,7 +849,10 @@ main {
   border-radius: inherit;
 }
 
-
+.skills-footnote { 
+  color: var(--grey);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-100); }
 
 
 
