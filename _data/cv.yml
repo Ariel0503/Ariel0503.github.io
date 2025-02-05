@@ -78,7 +78,7 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Other projects
   type: nested_list
   contents:
     - title: Topic 1.
