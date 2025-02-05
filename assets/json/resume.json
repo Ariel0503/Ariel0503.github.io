@@ -116,45 +116,45 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Introduction to Typography",
+      "date": "2022-08-19",
+      "issuer": "California Institute of the Arts",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/SV9HPL54UTJF",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified SAFe® 5 Lean Portfolio Manager",
+      "date": "2021-10-27",
+      "issuer": "Scaled Agile Inc",
+      "url": "https://www.credly.com/badges/0f12f57b-f067-4318-a8da-cda7e19c5d27?source=linked_in_profile",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified SAFe® 5 Agilist",
+      "date": "2021-10-01",
+      "issuer": "Scaled Agile Inc",
+      "url": "https://www.youracclaim.com/badges/1ad484eb-0db5-4bd4-a7ba-4e86d063a3db/linked_in_profile",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Science Orientation",
+      "date": "2019-08-02",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/e2580dbf-3a4e-4f16-8f99-2ae29a5956ac/linked_in_profile",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Project Management Professional",
+      "date": "2016-01-08",
+      "issuer": "Project Management Institute",
+      "url": "",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Scrum Master",
+      "date": "2014-04-01",
+      "issuer": "Scrum Alliance",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
