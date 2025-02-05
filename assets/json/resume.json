@@ -38,8 +38,8 @@
       "url": "https://www.p3-group.com/en/",
       "startDate": "2019-12-19",
       "endDate": "2022-01-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Worked as senior strategy consultant, advising on major transformation projects for automotive industry clients. Pararellely, supported P3 France growth by assuming responsibility for finance.",
+      "highlights": ["Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data"]
     },
       {
       "name": "Mercedes Benz Research and Development India (Subsidiary of Mercedes Benz AG)",
@@ -47,8 +47,8 @@
       "url": "https://www.mbrdi.co.in/#/",
       "startDate": "2009-07-01",
       "endDate": "2017-05-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Managed a large team (around 40 members) on different projects",
+      "highlights": ["Team Management", "Software project management", "Program management"]
     },
       {
       "name": "Cùram Software (now part of Merative, IBM)",
@@ -91,7 +91,7 @@
       "startDate": "2017-09-01",
       "endDate": "2019-06-15",
       "score": "Trés Bien",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Entrepreneurship", "Strategy","Finance","Marketing","Accounting","Managerial economics", "Statistics","Operations management"]
     },
     {
       "institution": "Anna University",
@@ -102,16 +102,16 @@
       "startDate": "2002-06-09",
       "endDate": "2006-06-15",
       "score": "Trés Bien",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -207,15 +207,39 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Business Administration",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Strategy",
+        "Finance",
+        "Marketing",
+        "Executive communication",
+        "Organizational transformation",
+        "Entrepreneurship"
+      ]
+    },
+     {
+      "name": "Technology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Data Analysis & Visualization",
+        "Project management",
+        "Software business analysis",
+        "Big data",
+        "Artificial intelligence",
+        "Software for businesses"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Connectivity",
+        "Shared services",
+        "Software for automotive operations",
+        "Industry 4.0",
+        "Digital transformation",
+        "Cross-cultural management"
       ]
     }
   ],
@@ -248,12 +272,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": ,
+      "summary": ,
+      "highlights": [],
+      "startDate": ,
+      "endDate": ,
+      "url": 
     }
   ]
 }
