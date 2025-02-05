@@ -21,7 +21,6 @@
         "esbenp.prettier-vscode",
         "sissel.shopify-liquid",
         "yzhang.markdown-all-in-one",
-        "matthiesen-technology.yaml-with-script"
       ],
       "settings": {
         // use prettier code formatter as default formatter
