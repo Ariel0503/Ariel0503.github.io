@@ -31,5 +31,10 @@
     }
   },
 
-  "remoteUser": "vscode"
+  "remoteUser": "vscode",
+  "portsAttributes": {
+    "8088": {
+      "label": "8080"
+    }
+  }
 }
