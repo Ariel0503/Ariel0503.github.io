@@ -5,7 +5,7 @@
     "image": "",
     "email": "martinapriya@aol.com",
     "phone": "",
-    "url": "https://Ariel0503.github.io/Intro/",
+    "url": "https://ariel0503.github.io/",
     "summary": "15+ years of experience, including managing large-scale transformationprograms and projects for global clients, leading cross-functional teams, andoptimizing performance for multinational firms. Highly adaptable with strongcultural awareness",
     "location": {
       "address": "",
@@ -29,8 +29,8 @@
       "url": "https://www.circle-strategy.com/?lang=en",
       "startDate": "2022-02-14",
       "endDate": "2023-11-30",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Worked as senior strategy consultant, advising on major transformation projects for a major FMCG client. Worked on client aquisition by developing proposals, liaising with business schools for recruitment and organizing conferences.",
+      "highlights": ["Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data"]
     },
       {
       "name": "P3 France SARL (Subsidiary of P3 Group, Germany)",
@@ -55,18 +55,18 @@
       "position": "Software Test engineer",
       "url": "https://www.merative.com/",
       "startDate": "2008-06-20",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "2009-01-31",
+      "summary": "Delivered essential child support functionalities in social security software, facilitating testing.",
+      "highlights": ["Software testing (manual/automation)"]
     },
       {
       "name": "Keane, an NTT Data company",
       "position": "Software Business Analyst",
       "url": "https://us.nttdata.com/en/",
-      "startDate": "2006-07-01",
+      "startDate": "2006-08-01",
       "endDate": "2008-06-24",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Delivered essential pharmaceutical functionalities in healthcare, facilitating business requirements gathering and testing.",
+      "highlights": ["Software requirement documentation","Software testing (manual/automation)","Software configuration management", "Client communication"]
     },
   ],
   "volunteer": [
