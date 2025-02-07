@@ -58,15 +58,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-math",
+            },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
       
-        title: "Math",
+        title: "a post with table of contents on a sidebar",
+      
+      description: "an example of a blog post with table of contents on a sidebar",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/sidebar-table-of-contents/";
+        
+      },
+    },{id: "post-table-of-contents",
+      
+        title: "Table Of Contents",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2015/math/";
+          window.location.href = "/blog/2023/table-of-contents/";
         
       },
     },{id: "news-i-am-opening-the-pandora-s-box-of-my-thoughts-ideas-and-work-come-enjoy-and-drop-your-comments-sparkles-smile",
