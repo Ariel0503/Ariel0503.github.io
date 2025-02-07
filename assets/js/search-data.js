@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-otherprojects",
-          title: "otherprojects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research",
+          title: "research",
+          description: "articles and insights based on research",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/other%20projects/";
+            window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -44,21 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-insights-for-indians-in-france",
+        },{id: "post-insights-for-indians-in-france",
       
         title: "Insights for Indians in France",
       
