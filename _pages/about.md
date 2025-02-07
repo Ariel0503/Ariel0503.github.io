@@ -29,5 +29,4 @@ latest_posts:
 ---
 
 
-
 I'm Martina Bharthi Priya. Call me Martina! I live in Paris, France. I help organizations achieve digital excellence by driving transformation efforts, improving supply chains, and empowering cross-functional teams.I am a business consultant with an engineering and MBA background who specialized in software development and business strategy.
