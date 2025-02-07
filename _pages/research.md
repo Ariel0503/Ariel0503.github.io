@@ -1,8 +1,8 @@
 ---
 layout: page
-title: otherprojects
-permalink: /other projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: articles and insights based on research
 nav: true
 nav_order: 4
 display_categories: [work, fun]
