@@ -58,26 +58,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-navigating-in-france",
       
-        title: "",
+        title: "navigating in france",
+      
+      description: "Practical advice for Indians seeking career growth or starting a company in France",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/navigating-in-france/";
+        
+      },
+    },{id: "post-navigating-entrepreneurship-in-france",
+      
+        title: "Navigating Entrepreneurship In France",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-02-03-navigating-entrepreneurship-in-france/";
-        
-      },
-    },{id: "post-cultivating-leadership-excellence-in-france",
-      
-        title: "Cultivating Leadership Excellence in France",
-      
-      description: "Practical advice for Indian professionals seeking career growth in France",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/cultivating-leadership-excellence-in-france/";
+          window.location.href = "/blog/2025/navigating-entrepreneurship-in-france/";
         
       },
     },{id: "post-table-of-contents",
@@ -91,8 +91,8 @@ ninja.data = [{
           window.location.href = "/blog/2023/table-of-contents/";
         
       },
-    },{id: "news-i-am-opening-the-pandora-s-box-of-my-thoughts-ideas-and-work-come-enjoy-and-drop-your-comments-sparkles-smile",
-          title: 'I am opening the pandora’s box of my thoughts, ideas and work. Come,...',
+    },{id: "news-i-am-sharing-my-thoughts-ideas-and-work-with-you-feel-free-to-explore-enjoy-and-leave-your-comments-sparkles-smile",
+          title: 'I am sharing my thoughts, ideas, and work with you. Feel free to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
