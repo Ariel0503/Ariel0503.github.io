@@ -58,15 +58,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+            },{id: "post-",
       
-        title: "a post with table of contents on a sidebar",
+        title: "",
       
-      description: "an example of a blog post with table of contents on a sidebar",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
+          window.location.href = "/blog/2025/2025-02-03-navigating-entrepreneurship-in-france/";
+        
+      },
+    },{id: "post-cultivating-leadership-excellence-in-france",
+      
+        title: "Cultivating Leadership Excellence in France",
+      
+      description: "Practical advice for Indian professionals seeking career growth in France",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/cultivating-leadership-excellence-in-france/";
         
       },
     },{id: "post-table-of-contents",
