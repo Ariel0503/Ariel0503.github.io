@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -58,37 +58,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-navigating-in-france",
+            },{id: "post-insights-for-indians-in-france",
       
-        title: "navigating in france",
+        title: "Insights for Indians in France",
       
-      description: "Practical advice for Indians seeking career growth or starting a company in France",
+      description: "Practical advice for Indians pursuing education, career or business in France",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/navigating-in-france/";
-        
-      },
-    },{id: "post-navigating-entrepreneurship-in-france",
-      
-        title: "Navigating Entrepreneurship In France",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/navigating-entrepreneurship-in-france/";
-        
-      },
-    },{id: "post-table-of-contents",
-      
-        title: "Table Of Contents",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
         
       },
     },{id: "news-i-am-sharing-my-thoughts-ideas-and-work-with-you-feel-free-to-explore-enjoy-and-leave-your-comments-sparkles-smile",
