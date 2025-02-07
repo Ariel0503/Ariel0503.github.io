@@ -410,16 +410,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-i-am-opening-the-pandora-s-box-of-my-thoughts-ideas-and-work-come-enjoy-and-drop-your-comments-sparkles-smile",
+          title: 'I am opening the pandora’s box of my thoughts, ideas and work. Come,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -479,13 +471,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/martinapriya", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.martinapriya.com/", "_blank");
         },
       },{
       id: 'light-theme',
