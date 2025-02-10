@@ -65,10 +65,10 @@
       institution: HEC Paris Business School, Paris, France
       year: 2019
       description:
-        - Grade : Trés bien. (First class)
-        - Core Subjects: Advanced entrepreneurship, Entrepreneurial finance, Management buyout, Structured Finance, Venture Capital and Private equity, Strategic management, Accounting, Marketing, Statistics, Finance, Operations.
-        - Leadership team : Industry club, Entrepreneurship club and MBA Sports tournament.
-        - Scholarships recipient: HEC excellence and rainbow foundation.
+        - Grade Trés bien. (First class)
+        - Core Subjects Advanced entrepreneurship, Entrepreneurial finance, Management buyout, Structured Finance, Venture Capital and Private equity, Strategic management, Accounting, Marketing, Statistics, Finance, Operations.
+        - Leadership team Industry club, Entrepreneurship club and MBA Sports tournament.
+        - Scholarships recipient HEC excellence and rainbow foundation.
         - 
     - title: Electrical and Electrnics engineering
       institution: Anna University, Trichy, India
@@ -90,12 +90,24 @@
   contents:
     - title: Entrepreneurship
       items:
-        - Description 1.
-        - Description 2.
+      year: 2024-2025 
+      Duration : ongoing
+        - Development of a digital platform for awareness and prevention of gender based violences.
+        - Development of a digital platform for the support of foreign job speakers in France.
+      year: 2011-2013
+      Duration : 2 years
+        - 
+      year: 2015- 2016
+      Duration : 1 year
+        - Support for local businesses in developmet of business plans and financial projections.
+         
+
     - title: Research & analysis
       items:
-        - Description 1.
-        - Description 2.
+      institution: Roland Berger Strategy Consultants, Paris, France
+      year: 2018
+      Duration : 10 months
+        - Formulated recommendations to automotive OEMs by studying artificial intelligence use cases in automotiveR & D utilising internal /extrenal reports, expert interviews and comparision of parallel industries.
     - title: Volunteering
       items:
         - Description 1.
