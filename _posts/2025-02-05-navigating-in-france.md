@@ -87,7 +87,7 @@ The choice of your business structure is a critical decision that shapes your ve
 Registration is a declaration of your business's birth. In France, this process is facilitated by user-friendly online portals like Guichet Entreprises, or you can opt for professional guidance through legal service providers.
 
 Links:
-- Online on the [Guichet Entreprises website](https://www.guichet-entreprises.fr/) (www.guichet-entreprises.fr).
+- Online on the [Guichet Entreprises website](https://www.inpi.fr/guichet-unique) (www.guichet-entreprises.fr).
 - Or, via a qualified professional using legal services like [LegalPlace](https://www.legalplace.fr/) (www.legalplace.fr).
 
 *Pro Tip: Ensure that all your documentation is in order, as meticulous records are the bedrock of a smooth registration process.*
