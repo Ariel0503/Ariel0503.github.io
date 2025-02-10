@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Resilience. Compassion. Achievement.
+subtitle: Moto - Resilience, Curiosity and Compassion.
 # <a href='#'>Affiliations</a>.
 
 profile:

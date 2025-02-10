@@ -15,10 +15,10 @@
       institution: Circle Strategy SAS, Paris, France
       year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
+        - Responsibilities:
+        - Client(s): Danone (FMCG)
+        - Projects: Description 3.
+        - Accomplishments: 
             - Sub-description 1.
             - Sub-description 2.
             
@@ -26,20 +26,38 @@
       institution: P3 France SARL (P3 Group), Paris, France
       year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Responsibilities:
+        - Client(s): Renault, BMW, Allianz Partners, KOSME (Automotive)
+        - Projects: 
+        - Accomplishments: 
 
     - title: Manager Software development
       institution: Mercedes Benz AG, India
       year: 2009-2017
+      description:
+        - Responsibilities:
+        - Business units supported: Intellectual property, Vehicle testing, Parts engineering & design, Engineering wiring harness, HR & leadership.
+        - Projects: 
+        - Accomplishments: 
 
     - title: Software engineer
       institution: Cùram Software (Merative, IBM)
       year: 2008 - 2009
+      description:
+        - Responsibilities:
+        - Client(s): State of New York (Healthcare - social services)
+        - Projects: 
+        - Accomplishments:
 
     - title: Software Business Analyst
       institution: Keane, an NTT Data company
       year: 2006 - 2008
+      description:
+        - Responsibilities:
+        - Client(s): McKesson (Healthcare - pharmaceuticals)
+        - Projects: 
+        - Accomplishments:
+
 - title: Education
   type: time_table
   contents:
@@ -47,18 +65,18 @@
       institution: HEC Paris Business School, Paris, France
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Grade : Trés bien. (First class)
+        - Core Subjects: Advanced entrepreneurship, Entrepreneurial finance, Management buyout, Structured Finance, Venture Capital and Private equity, Strategic management, Accounting, Marketing, Statistics, Finance, Operations.
+        - Leadership team : Industry club, Entrepreneurship club and MBA Sports tournament.
+        - Scholarships recipient: HEC excellence and rainbow foundation.
+        - 
     - title: Electrical and Electrnics engineering
       institution: Anna University, Trichy, India
       year: 2006
       description:
-        - Description 1.
-        - Description 2.
+        - Grade : First class. (Trés bien)
+        - Core Subjects: Power Electronics, Control Systems, Digital Signal Processing, Microprocessors, Electrical Machines, Transmission and Distribution, Electrical Measurements, Electrical Circuits, High voltage engineering, Computer architecture, Object oriented progamming.
+        - Leadership team : Tamil literature, IEEE student chapter, Women's club, Cultural events organizing team.
 
 # - title: Open Source Projects
 #   type: time_table
@@ -70,16 +88,20 @@
 - title: Other projects
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Entrepreneurship
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Research & analysis
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Volunteering
       items:
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: Interests
   type: list
   contents:
     - <u>Hobbies:</u> Reading, Theatre.
