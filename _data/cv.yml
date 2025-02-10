@@ -61,7 +61,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: MBA
+    - title: Master of Business Administaration (MBA)
       institution: HEC Paris Business School, Paris, France
       year: 2019
       description:
@@ -69,7 +69,7 @@
         - *Core Subjects* : Advanced entrepreneurship, Entrepreneurial finance, Management buyout, Structured Finance, Venture Capital and Private equity, Strategic management, Accounting, Marketing, Statistics, Finance, Operations.
         - *Leadership team* : Industry club, Entrepreneurship club and MBA Sports tournament.
         - *Scholarships* : HEC excellence and rainbow foundation.
-    - title: Electrical and Electrnics engineering
+    - title: Electrical and Electronics engineering
       institution: Anna University, Trichy, India
       year: 2006
       description:
