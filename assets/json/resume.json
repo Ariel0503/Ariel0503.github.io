@@ -193,12 +193,12 @@
       "fluency": "Intermediate",
       "icon": ""
     },
-   {
+    {
       "language": "Tamil",
       "fluency": "Native speaker",
       "icon": ""
     },
-  {
+    {
       "language": "German",
       "fluency": "Basic",
       "icon": ""
@@ -268,15 +268,15 @@
       "icon": "fa-solid fa-laptop",
       "reference": "Martina worked as a Tester, in one of the largest reverse engineering project I managed. She is a very talented, sincere, dedicated and a smart resource. Within a short time she understood the features of the existing product. Her detailed Analysis, product knowledge and good communication skills made the development team turn to her to get clarifications on the functionality of the product. Based on this impressive performance i asked her to take on the Business Analyst role in the project. She did an excellent job even in that role, though she did not have any prior experience playing this role. A resource you can depend up on in your team."
     }
-  ],
-  "projects": [
-    {
-      "name": ,
-      "summary": ,
-      "highlights": [],
-      "startDate": ,
-      "endDate": ,
-      "url": 
-    }
   ]
+  // "projects": [
+  //   {
+  //     "name": "",
+  //     "summary": "",
+  //     "highlights": [],
+  //     "startDate": "",
+  //     "endDate": "",
+  //     "url": ""
+  //   }
+  // ]
 }
