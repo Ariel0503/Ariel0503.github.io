@@ -659,10 +659,9 @@ jekyll_get_json:
 
 jsonresume:
   - basics
+  - profiles
   - work
   - education
-  - projects
-  - other projects
   - certificates
   - skills
   - languages

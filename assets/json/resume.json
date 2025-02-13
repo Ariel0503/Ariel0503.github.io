@@ -2,7 +2,7 @@
   "basics": {
     "name": "Martina Bharthi Priya",
     "label": "Business analyst and entrepreneur",
-    "image": "",
+    "image": "prof-pic.jpeg",
     "email": "martinapriya@aol.com",
     "phone": "",
     "url": "https://ariel0503.github.io/",
@@ -29,8 +29,8 @@
       "url": "https://www.circle-strategy.com/?lang=en",
       "startDate": "2022-02-14",
       "endDate": "2023-11-30",
-      "summary": "Worked as senior strategy consultant, advising on major transformation projects for a major FMCG client. Worked on client aquisition by developing proposals, liaising with business schools for recruitment and organizing conferences.",
-      "highlights": ["Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data"]
+      "summary": "Worked as senior strategy consultant, advising on major transformation projects for a major FMCG client. Contributed to client acquisition by developing proposals, liaising with business schools for recruitment and organizing conferences.",
+      "highlights": ["Executive Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data"]
     },
       {
       "name": "P3 France SARL (Subsidiary of P3 Group, Germany)",
@@ -39,7 +39,7 @@
       "startDate": "2019-12-19",
       "endDate": "2022-01-31",
       "summary": "Worked as senior strategy consultant, advising on major transformation projects for automotive industry clients. Pararellely, supported P3 France growth by assuming responsibility for finance.",
-      "highlights": ["Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data"]
+      "highlights": ["Executive Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data", "Financial modelling & reporting", "Consulting sales", "Recruitement"]
     },
       {
       "name": "Mercedes Benz Research and Development India (Subsidiary of Mercedes Benz AG)",
@@ -69,18 +69,6 @@
       "highlights": ["Software requirement documentation","Software testing (manual/automation)","Software configuration management", "Client communication"]
     }
   ],
-  "other projects": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "HEC Paris Business School",
@@ -91,7 +79,9 @@
       "startDate": "2017-09-01",
       "endDate": "2019-06-15",
       "score": "Trés Bien",
-      "courses": ["Entrepreneurship", "Strategy","Finance","Marketing","Accounting","Managerial economics", "Statistics","Operations management"]
+      "courses": ["Entrepreneurship", "Strategy","Finance","Marketing","Accounting","Managerial economics", "Statistics","Operations management"],
+      "Leadership team": ["Industry club","Entrepreneurship club","MBA Sports tournament"],
+      "Scholarships": ["HEC excellence","Rainbow foundation"]
     },
     {
       "institution": "Anna University",
@@ -102,7 +92,8 @@
       "startDate": "2002-06-09",
       "endDate": "2006-06-15",
       "score": "Trés Bien",
-      "courses": [""]
+      "courses": ["Power Electronics", "Control Systems", "Digital Signal Processing", "Microprocessors", "Electrical Machines", "Transmission and Distribution", "Electrical Measurements", "Electrical Circuits", "High voltage engineering", "Computer architecture", "Object oriented programming"],
+      "Leadership team": ["Tamil literature", "IEEE student chapter", "Women's club", "Cultural events organizing team"]
     }
   ],
   "certificates": [
@@ -111,49 +102,49 @@
       "date": "2022-08-19",
       "issuer": "California Institute of the Arts",
       "url": "https://www.coursera.org/account/accomplishments/certificate/SV9HPL54UTJF",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Certified SAFe® 5 Lean Portfolio Manager",
       "date": "2021-10-27",
       "issuer": "Scaled Agile Inc",
       "url": "https://www.credly.com/badges/0f12f57b-f067-4318-a8da-cda7e19c5d27?source=linked_in_profile",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Certified SAFe® 5 Agilist",
       "date": "2021-10-01",
       "issuer": "Scaled Agile Inc",
       "url": "https://www.youracclaim.com/badges/1ad484eb-0db5-4bd4-a7ba-4e86d063a3db/linked_in_profile",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Data Science Orientation",
       "date": "2019-08-02",
       "issuer": "IBM",
       "url": "https://www.credly.com/badges/e2580dbf-3a4e-4f16-8f99-2ae29a5956ac/linked_in_profile",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Project Management Professional",
       "date": "2016-01-08",
       "issuer": "Project Management Institute",
       "url": "",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Certified Scrum Master",
       "date": "2014-04-01",
       "issuer": "Scrum Alliance",
       "url": "",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "skills": [
     {
       "name": "Business Consulting",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Market research",
         "Data Analysis & Visualization",
@@ -167,7 +158,7 @@
     {
       "name": "Project Management",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Project planning",
         "Budgeting",
@@ -186,22 +177,22 @@
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-comment"
     },
     {
       "language": "French",
       "fluency": "Intermediate",
-      "icon": ""
+      "icon": "fa-solid fa-comment"
     },
     {
       "language": "Tamil",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-comment"
     },
     {
       "language": "German",
       "fluency": "Basic",
-      "icon": ""
+      "icon": "fa-solid fa-comment"
     }
   ],
   "interests": [
@@ -250,7 +241,7 @@
     },
     {
       "name": "Baharan Faure - Muret, International Engineering Senior Manager, Renault",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-laptop",
       "reference": "It’s my pleasure to recommend Martina, a brilliant senior strategy consultant. I've worked closely with her over the past year, on a strategic and complex transformation project. Martina showed excellent communication skills and consistently exceeded company quotas. On a personal level, she is charismatic and well-spoken, both qualities that have served her well in her role as a transformation agent..."
     },
       {
@@ -269,14 +260,4 @@
       "reference": "Martina worked as a Tester, in one of the largest reverse engineering project I managed. She is a very talented, sincere, dedicated and a smart resource. Within a short time she understood the features of the existing product. Her detailed Analysis, product knowledge and good communication skills made the development team turn to her to get clarifications on the functionality of the product. Based on this impressive performance i asked her to take on the Business Analyst role in the project. She did an excellent job even in that role, though she did not have any prior experience playing this role. A resource you can depend up on in your team."
     }
   ]
-  // "projects": [
-  //   {
-  //     "name": "",
-  //     "summary": "",
-  //     "highlights": [],
-  //     "startDate": "",
-  //     "endDate": "",
-  //     "url": ""
-  //   }
-  // ]
 }
