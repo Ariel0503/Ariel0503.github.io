@@ -29,7 +29,7 @@
       "url": "https://www.circle-strategy.com/?lang=en",
       "startDate": "2022-02-14",
       "endDate": "2023-11-30",
-      "summary": "Worked as senior strategy consultant, advising on major transformation projects for a major FMCG client. Contributed to client acquisition by developing proposals, liaising with business schools for recruitment and organizing conferences.",
+      "summary": "My role as a senior strategy consultant involved advising on major transformation projects for an FMCG client, as well as contributing to client acquisition through proposal development, liaising with business schools for recruitment, and organizing conferences.",
       "highlights": ["Executive Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data"]
     },
       {
@@ -38,7 +38,7 @@
       "url": "https://www.p3-group.com/en/",
       "startDate": "2019-12-19",
       "endDate": "2022-01-31",
-      "summary": "Worked as senior strategy consultant, advising on major transformation projects for automotive industry clients. Pararellely, supported P3 France growth by assuming responsibility for finance.",
+      "summary": "As a senior strategy consultant, I provided guidance on major transformation projects for clients in the automotive industry. I assisted P3 France's growth by taking on finance responsibilities.",
       "highlights": ["Executive Presentation","Managing project team","Analysing business operations","Conducting market research","Analysing organizational data", "Financial modelling & reporting", "Consulting sales", "Recruitement"]
     },
       {
@@ -140,7 +140,29 @@
       "icon": "fa-solid fa-certificate"
     }
   ],
-  "skills": [
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-comment"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate",
+      "icon": "fa-solid fa-comment"
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native speaker",
+      "icon": "fa-solid fa-comment"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": "fa-solid fa-comment"
+    }
+  ],
+  "skills & interests": [
     {
       "name": "Business Consulting",
       "level": "Master",
@@ -171,34 +193,10 @@
         "Implementation & Roll out",
         "Release management"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": "fa-solid fa-comment"
     },
-    {
-      "language": "French",
-      "fluency": "Intermediate",
-      "icon": "fa-solid fa-comment"
-    },
-    {
-      "language": "Tamil",
-      "fluency": "Native speaker",
-      "icon": "fa-solid fa-comment"
-    },
-    {
-      "language": "German",
-      "fluency": "Basic",
-      "icon": "fa-solid fa-comment"
-    }
-  ],
-  "interests": [
     {
       "name": "Business Administration",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Strategy",
         "Finance",
@@ -210,7 +208,7 @@
     },
      {
       "name": "Technology",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Data Analysis & Visualization",
         "Project management",
@@ -222,7 +220,7 @@
     },
     {
       "name": "Automotive",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-star",
       "keywords": [
         "Connectivity",
         "Shared services",
