@@ -3,8 +3,8 @@ layout: page
 title: research
 permalink: /research/
 description: articles and insights based on research
-nav: true
-nav_order: 4
+nav: false
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
