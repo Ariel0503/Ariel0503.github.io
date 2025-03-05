@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: research
 permalink: /research/
@@ -7,7 +7,7 @@ nav: false
 nav_order: 5
 display_categories: [work, fun]
 horizontal: false
----
+--- -->
 
 <!-- pages/projects.md -->
 <div class="projects">
