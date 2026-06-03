@@ -3019,6 +3019,20 @@ d-citation-list .references .title {
                 code = message.code,
                 immediateClose = message.immediateClose;
 
+              var isUnsafeLang =
+                typeof lang !== "string" ||
+                lang === "__proto__" ||
+                lang === "prototype" ||
+                lang === "constructor" ||
+                !Object.prototype.hasOwnProperty.call(_.languages, lang);
+
+              if (isUnsafeLang) {
+                if (immediateClose) {
+                  _self.close();
+                }
+                return;
+              }
+
               _self.postMessage(_.highlight(code, _.languages[lang], lang));
               if (immediateClose) {
                 _self.close();
