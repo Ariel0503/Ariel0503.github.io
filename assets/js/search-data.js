@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-insights-for-indians-in-france",
+        },{id: "post-transformation-insights",
+      
+        title: "Transformation insights",
+      
+      description: "Explaining my thoughts that transformed during transformation programs",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/consultant-paradox-drafts/";
+        
+      },
+    },{id: "post-insights-for-indians-in-france",
       
         title: "Insights for Indians in France",
       
