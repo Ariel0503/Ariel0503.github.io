@@ -1,5 +1,8 @@
 name: Docker Slim
 
+permissions:
+  contents: read
+
 #Only trigger, when the build workflow succeeded
 on:
   push:
