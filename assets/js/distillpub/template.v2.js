@@ -2694,6 +2694,21 @@ d-citation-list .references .title {
         tokenize: function (text, grammar) {
           var rest = grammar.rest;
           if (rest) {
+            var mergedGrammar = Object.create(null);
+            for (var existingToken in grammar) {
+              if (!Object.prototype.hasOwnProperty.call(grammar, existingToken) || existingToken === "rest") {
+                continue;
+              }
+              if (existingToken === "__proto__" || existingToken === "prototype" || existingToken === "constructor") {
+                continue;
+              }
+              Object.defineProperty(mergedGrammar, existingToken, {
+                value: grammar[existingToken],
+                writable: true,
+                enumerable: true,
+                configurable: true,
+              });
+            }
             for (var token in rest) {
               if (!Object.prototype.hasOwnProperty.call(rest, token)) {
                 continue;
@@ -2701,15 +2716,14 @@ d-citation-list .references .title {
               if (token === "__proto__" || token === "prototype" || token === "constructor") {
                 continue;
               }
-              Object.defineProperty(grammar, token, {
+              Object.defineProperty(mergedGrammar, token, {
                 value: rest[token],
                 writable: true,
                 enumerable: true,
                 configurable: true,
               });
             }
-
-            delete grammar.rest;
+            grammar = mergedGrammar;
           }
 
           var tokenList = new LinkedList();
