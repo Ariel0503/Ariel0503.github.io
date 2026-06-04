@@ -2701,7 +2701,12 @@ d-citation-list .references .title {
               if (token === "__proto__" || token === "prototype" || token === "constructor") {
                 continue;
               }
-              grammar[token] = rest[token];
+              Object.defineProperty(grammar, token, {
+                value: rest[token],
+                writable: true,
+                enumerable: true,
+                configurable: true,
+              });
             }
 
             delete grammar.rest;
