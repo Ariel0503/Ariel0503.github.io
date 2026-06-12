@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-transformation-insights",
+        },{id: "post-consultant-paradox",
+      
+        title: "Consultant Paradox",
+      
+      description: "how to transform business and organizations in best way",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/consultant-paradox/";
+        
+      },
+    },{id: "post-transformation-insights",
       
         title: "Transformation insights",
       
