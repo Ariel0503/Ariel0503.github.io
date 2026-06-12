@@ -5,6 +5,9 @@ on:
     workflows: [Deploy site]
     types: [completed]
 
+permissions:
+  contents: read
+
 jobs:
   check-links-on-site:
     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-a-workflow-based-on-the-conclusion-of-another-workflow
@@ -40,7 +43,7 @@ jobs:
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v1.9.0
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
           # only check local links

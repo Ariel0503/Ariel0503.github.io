@@ -8,6 +8,9 @@
 
 name: "Lighthouse Badger"
 
+permissions:
+  contents: read
+
 ########################################################################
 # DEFINE YOUR INPUTS AND TRIGGERS IN THE FOLLOWING
 ########################################################################
