@@ -15,61 +15,61 @@
       institution: Independent practitioner, Paris, France
       year: 2025 - Now
       description:
-        - Responsibilities :
-        - Client(s) : Schneider Electric (Energy management)
-        - Projects : Description 3.
-        - Accomplishments :
+        - Responsibilities:
+        - Client(s): Schneider Electric (Energy management)
+        - Projects: Description 3.
+        - Accomplishments:
             - Sub-description 1.
             - Sub-description 2.
     - title: Business Consultant
       institution: Circle Strategy SAS, Paris, France
       year: 2022 - 2023
       description:
-        - Responsibilities :
-        - Client(s) : Danone (FMCG)
-        - Projects : Description 3.
-        - Accomplishments :
+        - Responsibilities:
+        - Client(s): Danone (FMCG)
+        - Projects: Description 3.
+        - Accomplishments:
             - Sub-description 1.
             - Sub-description 2.
     - title: Business Consultant
       institution: P3 France SARL (P3 Group), Paris, France
       year: 2019 - 2022
       description:
-        - Responsibilities :
-        - Client(s) : Renault, BMW, Allianz Partners, KOSME (Automotive)
-        - Projects :
-        - Accomplishments :
+        - Responsibilities:
+        - Client(s): Renault, BMW, Allianz Partners, KOSME (Automotive)
+        - Projects:
+        - Accomplishments:
     - title: Manager Software development
       institution: Mercedes Benz AG, India
       year: 2009 - 2017
       description:
-        - Responsibilities :
-        - Business units supported :
+        - Responsibilities:
+        - Business units supported:
             - Intellectual property
             - Vehicle testing
             - Parts engineering & design
             - Engineering wiring harness
             - HR & leadership
-        - Projects :
-        - Accomplishments :
+        - Projects:
+        - Accomplishments:
     - title: Software Business Analyst
       institution: Cùram Software (Merative, IBM)
       year: 2008 - 2009
       description:
-        - Responsibilities :
-        - Client(s) :
+        - Responsibilities:
+        - Client(s):
             - State of New York (Healthcare - social services)
-        - Projects :
-        - Accomplishments :
+        - Projects:
+        - Accomplishments:
     - title: Software Business Analyst
       institution: Keane, an NTT Data company
       year: 2006-2008
       description:
-        - Responsibilities :
-        - Client(s) :
+        - Responsibilities:
+        - Client(s):
             - McKesson (Healthcare - pharmaceuticals)
-        - Projects :
-        - Accomplishments :
+        - Projects:
+        - Accomplishments:
 
 - title: Education
   type: time_table
