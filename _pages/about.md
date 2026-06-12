@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Motto - Resilience, Curiosity and Compassion.
+subtitle: Motto - Resilience, Curiosity and Compassion.Not a tagline — the operating system I bring to every engagement.
 # <a href='#'>Affiliations</a>.
 
 profile:
@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Transformation consultant for industrial and manufacturing companies focusing on servitization.
+ Transformation consultant for industrial and manufacturing companies focusing on servitization.
 
 I'm Martina Bharthi Priya — call me Martina! I help industrial and manufacturing leaders make servitization actually land: turning products into recurring-revenue services, and digital ambition into delivered change. I run an independent practice from Paris, currently partnering with Schneider Electric. My edge is a rare combination — engineering, software delivery, and strategy consulting — built across 15+ years in Germany, India, and France. Actively managed clients across the world. I get to expert-level in a new domain in months, not years.
 

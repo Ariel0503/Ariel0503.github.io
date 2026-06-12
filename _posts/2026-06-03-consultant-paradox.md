@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consultant Paradox
+title: Transformation insights
 date: 2026-06-03 07:30:00-0400
 description: how to transform business and organizations in best way
 tags: transformation
