@@ -11,6 +11,16 @@
 - title: Experience
   type: time_table
   contents:
+   - title: Business Consultant
+      institution: Independant practioner, Paris, France
+            year: 2025 - Now
+      description:
+        - Responsibilities :
+        - Client(s) : Schneider Electric (Energy management)
+        - Projects : Description 3.
+        - Accomplishments : 
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Business Consultant
       institution: Circle Strategy SAS, Paris, France
       year: 2022 - 2023
