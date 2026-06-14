@@ -11,7 +11,7 @@
   - [Deployment](#deployment)
     - [For personal and organization webpages](#for-personal-and-organization-webpages)
     - [For project pages](#for-project-pages)
-    - [Enabling automatic deployment](#enabling-automatic-deployment)
+    - [Enabling automatic deployment](#enabling-aubundltomatic-deployment)
     - [Manual deployment to GitHub Pages](#manual-deployment-to-github-pages)
     - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
     - [Deployment to a separate repository (advanced users only)](#deployment-to-a-separate-repository-advanced-users-only)
