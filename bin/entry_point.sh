@@ -1,6 +1,10 @@
 #!/bin/bash
 set -euo pipefail
 
+export BUNDLE_APP_CONFIG="${BUNDLE_APP_CONFIG:-$(pwd)/.bundle}"
+export BUNDLE_PATH="${BUNDLE_PATH:-vendor/bundle}"
+mkdir -p .bundle
+
 echo "Entry point script running"
 
 CONFIG_FILE=_config.yml
